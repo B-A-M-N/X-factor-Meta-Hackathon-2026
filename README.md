@@ -8,7 +8,7 @@ This is **not a monorepo**. Each project retains its own codebase, dependencies,
 | --- | --- | --- |
 | **Locus** | Local AI inference gateway, routing, and traffic governance | Local project; public repository pending |
 | **Ocliv** | Self-hosted HTTPS tunnel and secure remote access | Local project; public repository pending |
-| **Tui-dash** | Terminal interface for coding-agent sessions, observation, and guidance | Local project; public repository pending |
+| **Metis** | Terminal interface for coding-agent sessions, observation, and guidance | Local project; public repository pending |
 | **Jeverb** | Agent decisions, verification, and completion controls | [B-A-M-N/jevwire](https://github.com/B-A-M-N/jevwire) |
 
 ## Independence
